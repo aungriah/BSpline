@@ -10,3 +10,9 @@ The BSplineSurface class wraps the 2D routines "surfit", "bispev", and "parder".
 
 The BSplineParamCurve class wraps the multidimensional routines "parcur", "curev" and "cualde".
 
+# References
+
+Paul Dierckx, Curve and Surface Fitting with Splines, Oxford University Press, 1993.
+
+Jorn Baayen, C++ binding for FITPACK B-spline curve and surface fitting routines, [(GitHub repository)](https://github.com/jbaayen/fitpackpp)
+
