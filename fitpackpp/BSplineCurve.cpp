@@ -30,7 +30,7 @@
 
 #include "BSplineCurve.h"
 
-#include "../build/"
+#include "../build/FCMangle.h"
 
 using namespace fitpackpp;
 
