@@ -20,7 +20,7 @@ Pending.
 
 # Testing 
 
-Pendind.
+Pending.
 
 # References
 
