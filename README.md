@@ -12,7 +12,11 @@ The BSplineParamCurve class wraps the multidimensional routines "parcur", "curev
 
 # Installation
 
-Pending.
+### Installtion with cmake
+
+```sh
+mkdir build && cd build
+```
 
 # Usage
 
