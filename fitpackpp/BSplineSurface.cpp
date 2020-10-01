@@ -32,7 +32,7 @@
 
 #include "BSplineSurface.h"
 
-#include "FCMangle.h"
+#include "../build/FCMangle.h"
 
 using namespace fitpackpp;
 
