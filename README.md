@@ -8,7 +8,7 @@ The BSplineCurve class wraps the 1D routines "curfit", "splev", and "splder".
 
 The BSplineSurface class wraps the 2D routines "surfit", "bispev", and "parder".
 
-The BSplineParamCurve class wraps the multidimensional routines "parcur", "curev" and "cualde".
+The BSpline class wraps the multidimensional routines "parcur", "curev" and "cualde".
 
 # Installation
 
