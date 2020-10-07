@@ -2,7 +2,7 @@
 
 This repository expands [Jorn Baayen's work on BSplines](https://github.com/jbaayen/fitpackpp) by including the possibility to smooth parametric curves. 
 
-BSpline wraps the package of Fortran subroutines for smoothing splines by P. Dierckx, [FITPACK](http://www.netlib.org/dierckx/). This wrapper uses the double precision version of FITPACK distributed with [scipy](https://www.scipy.org). I
+BSpline wraps the package of Fortran subroutines for smoothing splines by P. Dierckx, [FITPACK](http://www.netlib.org/dierckx/). This wrapper uses the double precision version of FITPACK distributed with [scipy](https://www.scipy.org).
 
 The BSplineCurve class wraps the 1D routines "curfit", "splev", and "splder".
 
